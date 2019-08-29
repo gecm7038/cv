@@ -1,0 +1,10 @@
+# Created by Octave 3.8.0, Sat Jan 26 19:24:36 2019 IST <apple@Apples-MacBook-Air.local>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 2 3 44
+ 34 45 6
+ 34 34 45
+
+
